@@ -5,7 +5,7 @@
 	"publisher": "Leprekus",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/Leprekus/princess-bubblegum"
 	},
 	"colors": {
 		"editor.background": "#263238",
