@@ -1,7 +1,11 @@
 {
   "name": "princess-bubblegum",
-  "displayName": "princess-bubblegum",
-  "description": "theme inspired in princess bubblegum from adventure time",
+  "displayName": "🍬Princess Bubblegum🍬",
+	"publisher": "Leprekus",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Leprekus/princess-bubblegum"
+	},  "description": "theme inspired in princess bubblegum from adventure time",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"

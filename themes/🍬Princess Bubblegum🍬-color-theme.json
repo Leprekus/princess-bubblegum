@@ -1,18 +1,5 @@
 {
 	"name": "🍬Princess Bubblegum🍬",
-	"displayName": "🍬Princess Bubblegum🍬",
-	"version": "1.0.0",
-	"publisher": "Leprekus",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Leprekus/princess-bubblegum"
-	},
-	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
-	},
 	"tokenColors": [
 		{
 		  "name": "unison punctuation",
